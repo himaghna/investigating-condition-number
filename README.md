@@ -1,1 +1,1 @@
-# investigating-condition-number
+Investigate how condition number changes with scaling of vectors
